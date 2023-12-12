@@ -16,15 +16,10 @@
 
 Obrigado por visitar meu perfil!
 
-
-Atualmente, encontro-me matriculado no curso de Análise e Desenvolvimento de Sistemas, cursando o primeiro período acadêmico.
-
-Fique a vontade para vasculhar meus repositórios e, se quiser, entrar em contato!
 <br>
-<h2 align="center">Algumas Linguagens e Softwares que domino:</h2>
+<h2 align="center">Algumas Linguagens e Softwares que conheço:</h2>
 
 <div align="center">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Html" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />

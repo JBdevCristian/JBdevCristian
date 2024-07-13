@@ -15,7 +15,7 @@
 
 Obrigado por visitar meu perfil!
 
-Cursando Analise e desenvolvimento de sistemas na FECAF e atualmente estudando desenvolvimento Full Stack
+Cursando Analise e desenvolvimento de sistemas na Estácio e atualmente estudando desenvolvimento Full Stack
 
 <br>
 <h2 align="center">Algumas Linguagens e Softwares que conheço:</h2>
